@@ -1,1 +1,11 @@
-{"name":"g290-one-line-lights-out","private":true,"type":"module","version":"1.0.0"}
+{
+  "name": "g290-one-line-lights-out",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun entry: One Line, Lights Out — the saddest status update when the laptop shuts",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
